@@ -6,10 +6,10 @@ OpenShot sometimes goe sinto a loop looking for missing files.
 
 Documented on Github repositories:
 
-[Issue 1118 / Openshot-QT](https://github.com/OpenShot/openshot-qt/issues/1118) Marked resolved but bug is still preventing normal behavior on latest release!
+[Issue 1118 / Openshot-QT](https://github.com/OpenShot/openshot-qt/issues/1118) (Marked resolved but bug is still preventing normal behavior on latest release!)
 
 
-[Issue 3047 / Openshot-QT](https://github.com/OpenShot/openshot-qt/issues/3047) Marked duplicate.
+[Issue 3047 / Openshot-QT](https://github.com/OpenShot/openshot-qt/issues/3047) (Marked duplicate)
 
 
 
